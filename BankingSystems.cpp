@@ -221,7 +221,7 @@ int main() {
 
     //Opening - create an account
     cout << "\n===========================" << endl;
-    cout << "     Bank of One Eleven     " << endl;
+    cout << "            Bank            " << endl;
     cout << "===========================" << endl;
     cout << "" <<endl;
     cout << "Create an account to get started." << endl;
@@ -287,7 +287,7 @@ int main() {
     //Main menu
     do {
         cout << "\n===========================" << endl;
-        cout << "     Bank of One Eleven     " << endl;
+        cout << "             Bank            " << endl;
         cout << "===========================" << endl;
         cout << "1. DEPOSIT" << endl;
         cout << "2. WITHDRAW" << endl;
